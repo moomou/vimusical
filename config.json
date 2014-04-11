@@ -1,0 +1,8 @@
+{
+    "loglevel": 10,
+    "soundfont": {
+        "file": "./sf/fluid-soundfont/FluidR3_GM2-2.SF2",
+        "presetId": 0
+    },
+    "inputfile": "/tmp/output.txt"
+}
